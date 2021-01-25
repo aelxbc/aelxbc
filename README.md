@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- painéis interativos -->
 <center>
 <table>
     <tr>
@@ -24,4 +25,5 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
+<!-- redes sociais -->
 <a href="https://www.linkedin.com/in/aelxbc"><img src="https://github.com/aelxbc/aelxbc/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/aelxbc)  
