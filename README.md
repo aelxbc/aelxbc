@@ -23,3 +23,5 @@ Here are some ideas to get you started:
     </tr>   
 </table>
 </center>  
+
+<a href="https://www.linkedin.com/in/aelxbc"><img src="https://github.com/seu_usuário/aelxbc/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/aelxbc)  
