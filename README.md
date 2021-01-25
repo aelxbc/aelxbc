@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-<a href="https://www.linkedin.com/in/aelxbc"><img src="https://github.com/seu_usuário/aelxbc/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/aelxbc)  
+<a href="https://www.linkedin.com/in/aelxbc"><img src="https://github.com/aelxbc/aelxbc/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/aelxbc)  
