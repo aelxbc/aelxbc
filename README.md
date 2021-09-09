@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="capa.png" />
+
 <!--
 **aelxbc/aelxbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +28,4 @@ Here are some ideas to get you started:
 </center>  
 
 <!-- redes sociais -->
-<a href="https://www.linkedin.com/in/aelxbc"><img src="https://github.com/aelxbc/aelxbc/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/aelxbc)  
+<a href="https://www.linkedin.com/in/aelxbc"><img src="linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/aelxbc)  
