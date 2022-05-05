@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="capa.png" />
+<img src="capa2.png" />
 
 <!--
 **aelxbc/aelxbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
